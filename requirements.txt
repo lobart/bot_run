@@ -1,0 +1,5 @@
+django
+gunicorn
+django-heroku
+pyTelegramBotAPI==3.6.7
+telebot==0.0.3
